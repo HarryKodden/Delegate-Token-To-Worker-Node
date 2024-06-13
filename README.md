@@ -2,7 +2,7 @@
 
 Demo to handover an (refreshing) Access Token to a Worker Node which is processing logic on behalf of a user.
 
-## Howto...
+## :arrow_down: Run the demo...
 
 1. Sign up for a (free) account on https://zitadel.com/
 2. Create an instance
@@ -12,12 +12,12 @@ Demo to handover an (refreshing) Access Token to a Worker Node which is processi
 6. Adjust **.env** to match with your instance
 7. Run the notebook step by step
 
-**Enjoy !**
+:tada: Enjoy !
 
 ## Contributions ?
 
-If you have suggestions / remarks, please feel free to contibute !
+If you have suggestions / remarks, please feel free to contribute !
 
-[Notebook](./Zitadel_Demo.ipynb)
+:point_right: [Notebook](./Zitadel_Demo.ipynb)
 
 Harry Kodden
